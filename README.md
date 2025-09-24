@@ -1,4 +1,4 @@
-1.) # DC Motor Direction Control with Arduino
+1.) # DC MOTOR DIRECTION CONTROL WITH ARDUINO
 
 ## 📌 Project Overview
 This project demonstrates how to control the **direction of a DC motor** (clockwise, counter-clockwise, and stop) using an **Arduino Uno** and an **L293D motor driver IC**. Two push buttons are used as inputs to decide the motor rotation.  
@@ -19,7 +19,7 @@ It introduces the use of **H-Bridge motor drivers** and handling **digital input
 
 
 
-2.) # Temperature-Controlled Fan using Arduino and TMP36
+2.) # TEMPERATURE-CONTROLLED FAN USING ARDUINO AND TMP36
 
 ## 📌 Project Overview
 This project demonstrates a **temperature-controlled fan** using an **Arduino Uno**, a **TMP36 temperature sensor**, and a **DC motor with L293D motor driver**.  
