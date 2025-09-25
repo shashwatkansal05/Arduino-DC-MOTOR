@@ -44,6 +44,30 @@ This project introduces **analog sensor reading**, **PWM motor control**, and **
 
 ---
 
+3.) # LIGHT SENSING MOTOR DEMO
+
+## 📌 Project Overview
+A simple Arduino-based project that demonstrates **automatic motor control based on ambient light**.  
+
+
+## Features
+- Uses an **LDR (light-dependent resistor)** to sense brightness.  
+- DC motor automatically **runs in one direction when dark** (simulating “opening”) and **opposite direction when bright** (simulating “closing”).  
+
+## Components Used
+- Arduino Uno  
+- DC Motor  
+- L293D Motor Driver (H-Bridge)  
+- LDR (Photoresistor) + 10kΩ Resistor  
+- Breadboard & Jumper Wires
+
+- [https://www.tinkercad.com/things/4TCr3APxTIQ-fantabulous-waasa-gogo] (Tinkercad Link)
+
+
+
+---
+
+
 
 
 
