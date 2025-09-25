@@ -16,7 +16,7 @@ It introduces the use of **H-Bridge motor drivers** and handling **digital input
 
 [https://www.tinkercad.com/things/1uQDzZ4NBAj-funky-gaaris] (Tinkercad Link)
 
-
+---
 
 
 2.) # TEMPERATURE-CONTROLLED FAN USING ARDUINO AND TMP36
